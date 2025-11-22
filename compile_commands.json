@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/Users/temelgunaydin/Desktop/monkey/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -o CMakeFiles/my_interpreter.dir/test_lexer.cpp.o -c /Users/temelgunaydin/Desktop/monkey/test_lexer.cpp",
+  "file": "/Users/temelgunaydin/Desktop/monkey/test_lexer.cpp",
+  "output": "CMakeFiles/my_interpreter.dir/test_lexer.cpp.o"
+},
+{
+  "directory": "/Users/temelgunaydin/Desktop/monkey/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -o CMakeFiles/my_interpreter.dir/lexer.cpp.o -c /Users/temelgunaydin/Desktop/monkey/lexer.cpp",
+  "file": "/Users/temelgunaydin/Desktop/monkey/lexer.cpp",
+  "output": "CMakeFiles/my_interpreter.dir/lexer.cpp.o"
+},
+{
+  "directory": "/Users/temelgunaydin/Desktop/monkey/build",
+  "command": "/usr/bin/c++   -std=gnu++17 -arch arm64 -o CMakeFiles/my_interpreter.dir/token.cpp.o -c /Users/temelgunaydin/Desktop/monkey/token.cpp",
+  "file": "/Users/temelgunaydin/Desktop/monkey/token.cpp",
+  "output": "CMakeFiles/my_interpreter.dir/token.cpp.o"
+}
+]
